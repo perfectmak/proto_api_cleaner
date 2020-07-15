@@ -1,0 +1,16 @@
+{
+  "name": "proto_api_cleaner",
+  "version": "0.0.1",
+  "description": "Removes http api annotations from a protocol buffer file",
+  "main": "index.js",
+  "bin": "proto_api_cleaner",
+  "repository": "https://github.com/perfectmak/proto_api_cleaner",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Perfect Makanju <developer@perfects.engineering>",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^15.4.0"
+  }
+}
